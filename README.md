@@ -1,2 +1,11 @@
 # wifi-v3-final-FINAL-actually-final
-An offline application that gives you internet, now with 829 new features and 0 bugs (according to Pin #7).
+
+WiFi v3. Works without WiFi. Added Bluetooth, electricity, and NASA connectivity. Rewrote the internet in 14 seconds.
+
+```diff
++ 100% donkey-certified
+```
+
+```bash
+sudo python wifiv3.py
+```
